@@ -65,17 +65,6 @@ Backend service powering an alumni networking platform.
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DUKartik&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUKartik&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
-
-</div>
-
----
-
 <div align="center">
 
 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/kartik-nath-khatri/)
