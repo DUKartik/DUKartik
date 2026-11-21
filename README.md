@@ -1,83 +1,83 @@
-<h1 align="center">Hi, I'm Kartik Nath Khatri 👋</h1>
+<div align="center">
 
-<p align="center">
-  Open-source contributor · Cloud-native infrastructure · Secure backend engineering
-</p>
+# Kartik Nath Khatri
 
+**Backend & Cloud-Native Engineer**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kartik-nath-khatri/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-555555?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="https://github.com/kubeflow/spark-operator/pull/3096">
-    <img src="https://img.shields.io/badge/Kubeflow-Contributor-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubeflow Contributor">
-  </a>
-  &nbsp;
-  <a href="https://hub.xerj.org/contributors/DUKartik">
-    <img src="https://img.shields.io/badge/XERJ-Contributor-555555?style=flat" alt="XERJ Contributor">
-  </a>
-</p>
+Merged into **Kubeflow Spark Operator** · Shipped **AES-256-GCM encryption** for Aadhaar data at **IIT Ropar's FLN**
 
+<br/>
+
+<a href="https://www.linkedin.com/in/kartik-nath-khatri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/kubeflow/spark-operator/pull/3096"><img src="https://img.shields.io/badge/Kubeflow-Contributor-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubeflow Contributor"></a>
+<a href="https://hub.xerj.org/contributors/DUKartik"><img src="https://img.shields.io/badge/XERJ-Contributor-24292F?style=for-the-badge" alt="XERJ Contributor"></a>
+
+</div>
 
 ---
 
-## About me
+## About
 
-- 🎓 I'm a third-year B.Tech student pursuing Computer Science and Engineering (CSE) with a specialization in AI/ML. I enjoy working on backend development, cloud infrastructure, and machine learning. I'm currently exploring AI/ML and cloud-native technologies while building projects and contributing to open source.
-- ☸️ Contributing to **Kubeflow**, including the Spark Operator and Kubeflow SDK.
-- 🔐 Contributing to **[Vicharanashala / FLN](https://github.com/vicharanashala/fln)**, an AI-powered foundational numeracy platform.
+Third-year B.Tech student (CSE, AI/ML specialization) who builds backend and infrastructure software and ships it into real open-source projects. My work sits at the intersection of **Kubernetes operators**, **Spark workloads**, and **security-sensitive backend design**.
 
+|  |  |
+|---|---|
+| **Focus** | Cloud-native infrastructure, secure backend systems |
+| **Contributing to** | Kubeflow (Spark Operator, SDK) · Vicharanashala / FLN |
+| **Languages** | Go, Python, TypeScript |
+| **Open to** | Internships and open-source collaboration |
 
 ---
 
-## Open-source contributions
+## Open Source
 
-### Kubeflow
+**Featured**
 
-| Repository | Contribution | Status |
-|---|---|---|
-| [`kubeflow/spark-operator`](https://github.com/kubeflow/spark-operator) | [PR #3096](https://github.com/kubeflow/spark-operator/pull/3096) — Added physical CPU request and limit support to the SparkConnect CRD, with validation and tests. | ✅ Merged |
-| [`kubeflow/sdk`](https://github.com/kubeflow/sdk) | [PR #896](https://github.com/kubeflow/sdk/pull/896) — Added SDK support for physical CPU requests and limits in Spark Connect. | 🟡 In progress |
+- **Kubeflow Spark Operator:** Added physical CPU requests and limits to the SparkConnect CRD, with validation and tests ([#3096](https://github.com/kubeflow/spark-operator/pull/3096)).
+- **FLN (IIT Ropar):** Secured Aadhaar tokenization with AES-256-GCM envelope encryption, per-record keys, and step-up authentication ([#114](https://github.com/vicharanashala/fln/pull/114)).
 
-### Vicharanashala / FLN · IIT Ropar
+**Full, always-current list**
 
-| PR | Contribution | Status |
-|---|---|---|
-| [#114](https://github.com/vicharanashala/fln/pull/114) | Secured Aadhaar tokenization with AES-256-GCM envelope encryption, per-record keys, and step-up authentication. | ✅ Merged |
-| [#285](https://github.com/vicharanashala/fln/pull/285) | Added contributor onboarding documentation covering FLN and the Aadhaar Vault architecture. | ✅ Merged |
-| [#510](https://github.com/vicharanashala/fln/pull/510) | Updated the changelog and resolved its staleness check. | ✅ Merged |
+[![Kubeflow](https://img.shields.io/badge/Kubeflow-all%20merged%20PRs-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ADUKartik+org%3Akubeflow)
+[![FLN](https://img.shields.io/badge/FLN-all%20merged%20PRs-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ADUKartik+org%3Avicharanashala)
+[![Open PRs](https://img.shields.io/badge/Open%20PRs-in%20progress-2EA44F?style=flat-square&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3ADUKartik+-repo%3ADUKartik%2F*)
 
 ---
 
 ## Projects
 
-- **[EntropyShield](https://github.com/DUKartik/EntropyShield)** — Policy compliance and document verification with human review and audit logs.
-- **[Kubeflow Spark Operator fork](https://github.com/DUKartik/kubeflow_spark-operator)** — Working fork for Kubernetes-based Spark applications.
-- **[FLN fork](https://github.com/DUKartik/FLN_Open_Source)** — Working fork of an AI-powered foundational numeracy platform.
-- **[AlumniConnect Backend](https://github.com/DUKartik/AlumniConnect_Backend)** — Backend for an alumni networking platform.
+**[EntropyShield](https://github.com/DUKartik/EntropyShield)**
+Policy compliance and document verification platform with human-in-the-loop review and full audit logging.
+
+**[AlumniConnect Backend](https://github.com/DUKartik/AlumniConnect_Backend)**
+Backend service powering an alumni networking platform.
 
 ---
 
-## Tech stack
+## Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Apache Spark">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
-</p>
+| | |
+|---|---|
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Cloud & Infra** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| **Backend & Data** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
 
 ---
 
-## Connect
+## GitHub Activity
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kartik-nath-khatri/).
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DUKartik&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUKartik&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/kartik-nath-khatri/)
+
+</div>
