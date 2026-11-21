@@ -4,7 +4,7 @@
 
 **Backend & Cloud-Native Engineer**
 
-Merged into **Kubeflow Spark Operator** · Shipped **AES-256-GCM encryption** for Aadhaar data at **IIT Ropar's FLN**
+Merged into **Kubeflow Spark Operator** · Engineered secure Aadhaar tokenization at **IIT Ropar**
 
 <br/>
 
