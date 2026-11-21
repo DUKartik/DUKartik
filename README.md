@@ -4,9 +4,21 @@
   Open-source contributor · Cloud-native infrastructure · Secure backend engineering
 </p>
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/kartik-nath-khatri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/kartik-nath-khatri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-555555?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://github.com/kubeflow/spark-operator/pull/3096">
+    <img src="https://img.shields.io/badge/Kubeflow-Contributor-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubeflow Contributor">
+  </a>
+  &nbsp;
+  <a href="https://hub.xerj.org/contributors/DUKartik">
+    <img src="https://img.shields.io/badge/XERJ-Contributor-555555?style=flat" alt="XERJ Contributor">
+  </a>
 </p>
+
 
 ---
 
